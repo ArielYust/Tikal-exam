@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tikal Exam</string>
+    <string name="action_about">About</string>
+    <string name="toolbar_main_screen">Pop Movies</string>
+    <string name="toolbar_details_screen">Movie Details</string>
+
+    <bool name="isTablet">false</bool>
+</resources>
